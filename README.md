@@ -25,7 +25,7 @@
 ![시나리오](https://user-images.githubusercontent.com/39540606/159206308-cbd23926-1a1c-4b24-b003-ec8071c50a1e.PNG)
 
 ### 유즈케이스_다이어그램
-
+![sdf](https://user-images.githubusercontent.com/39540606/159206877-d23a0077-7030-4b78-b77a-0efcda6882ce.PNG)
 ### 클래스_다이어그램
 
 ## 클래스_다이어그램(영어)
