@@ -399,6 +399,7 @@ namespace Flight_Ticketing
                     Account.saveAccount();
                     DataBase.save("BookDic.txt", books);
                     Console.WriteLine("\n예약 번호는 {0}입니다.", book.BookNo);
+                    findRev(); // 결제된 항공편의 예약 정보 조회
                     break;
 
                 default:
