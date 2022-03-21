@@ -43,7 +43,7 @@
 
 
 Role : 팀장
-Github : [@chomins](https://github.com/chomins)
+Github : [@chomins](https://github.com/ddff1456)
 
 ```
 
