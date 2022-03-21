@@ -155,7 +155,7 @@ namespace Flight_Ticketing
             Flight flight = flightSelect(filteredFlights); // 조회된 항공편 목록에서 사용자가 원하는 항공편을 고른다.
             Book book = seatSelect(flight); // 선택된 항공편에서 사용자는 원하는 좌석을 선택한다.
             pay(book); // 항공편 결제
-            findRev(); // 결제된 항공편의 예약 정보 조회
+           
         }
 
         private Flight boardingInfo()
