@@ -8,14 +8,9 @@
   - [클래스 다이어그램](#클래스_다이어그램)
  
 
-2.소개
-  - [제공 기능](#제공해주는기능)
+2.[팀원 소개](#팀원소개)
 
-3.[보고서](#보고서)
-
-4.[팀원 소개](#팀원소개)
-
-5.[코드 정의서](#코드_정의서)
+3.[코드 정의서](#코드_정의서)
 
 ## 프로젝트 소개
 
@@ -39,14 +34,7 @@
 ## 클래스_다이어그램(한글)
 ![한글](https://user-images.githubusercontent.com/39540606/159204999-ed3fc00d-5347-453e-95ea-4c4dd259a094.PNG)
 
-
-
-
 ## 소개
-
-### 제공해주는기능
-![Image of Yaktocat](https://firebasestorage.googleapis.com/v0/b/my-project-1541150284852.appspot.com/o/%EA%B8%B0%EB%8A%A5.png?alt=media&token=9dfe4416-d2c4-43b4-806b-1c155ac99481)
-
 
 ## 팀원소개
 ```
